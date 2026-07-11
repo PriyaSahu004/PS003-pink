@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PS003-pink
+- 👋 Hi, I’m @PriyaSahu004
 - 👀 I’m interested in web-developing & UI/UX design
 - 🌱 I’m currently learning JavaScript
 - 📫 To reach me gogothepink@gmail.com
